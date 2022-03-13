@@ -1,0 +1,4 @@
+1.Type "make run" into terminal to execute the query
+2.Please Execute Query in sequential order. Q1 -> Q2 -> Q3 -> Q4 as they may be dependent on the ouput of previous Query
+3.I have tested the code and its working fine on my system, Feel free to contact me if u find any problem with the code.
+Thank you 
